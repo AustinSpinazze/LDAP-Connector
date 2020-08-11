@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built as a proof of concept to show that it is possible to securely connect and read from an active directory service using React and Electron. This project was built using React, Electron, and ActiveDirectory2. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
